@@ -395,4 +395,4 @@ In this exercise, you have completed the following:
 
 ### You have successfully completed this exercise. Kindly click **Next >>** to proceed further
 
-![Launch Azure Portal](./media/gsk5.png)
+![Launch Azure Portal](./media/new/8nct.png)

@@ -29,7 +29,7 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
     
 1. Navigate to `C:\LabFiles` (1), select the **ai-developer (2)** folder, and click **Select Folder (3)**.
 
-    ![](./media/sk20.png)
+    ![](./media/new/folopn.png)
 
 1. Click **Yes, I trust the authors** to trust the folder and enable all features.
 
@@ -39,9 +39,9 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
 1. Navigate back to **Microsoft Foundry** portal.
 
-1. From the **Overview (1)** page, select **Azure OpenAI (2)** under Libraries, copy the **API Key (3)** and copy the **Azure OpenAI endpoint (4)** using the copy icons. And paste it into **Notepad** to be used in the upcoming exercises
+1. From the **Overview (1)** page, select **Azure OpenAI (2)** under Libraries, copy the **API Key (3)** and copy the **Azure OpenAI endpoint (4)** using the copy icons and paste it into **Notepad** as this is to be used in the upcoming exercises.
 
-    ![](./media/new/E2T1S6-1401.png)
+    ![](./media/new/keyned.png)
 
 1. Perform the further steps based on your preferred programming language:
 
@@ -278,4 +278,4 @@ In this exercise, you have completed the following:
 
 ### You have successfully completed this exercise. Kindly click **Next >>** to proceed further
 
-![Launch Azure Portal](./media/gsk5.png)
+![Launch Azure Portal](./media/new/3nct.png)

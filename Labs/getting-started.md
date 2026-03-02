@@ -74,13 +74,13 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
- ![Use the Split Window Feature](./media/new/split-indow-1401.png)
+ ![Use the Split Window Feature](./media/splittt.png)
  
 ## Managing Your Virtual Machine
  
 Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
  
-![Manage Your Virtual Machine](./media/new/res-1401.png)
+![Manage Your Virtual Machine](./media/new/vmssr2.png)
 
 ## Let's Get Started with Azure Portal
 
@@ -92,19 +92,21 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
  
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject> **(1)**
  
-     ![Enter Your Username](./media/new/email.png)
+     ![Enter Your Username](./media/new/odlusr.png)
  
 1. Now enter the following temporary password and click on **Sign in (2)**.
  
    - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject> **(1)**
  
-      ![Enter Your Password](./media/new/pass.png)
+      ![Enter Your Password](./media/new/odltap.png)
 
 1. If you see the pop-up **Stay-Signed in?**, click **No**.
 
-    ![](./media/new/stay.png)
+    ![](./media/staysignn.png)
 
-1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **"Cancel"** to skip the tour.
+1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **Maybe later** to skip the tour.
+
+   ![](./media/starttour.png)
 
 <!--- MFA Setup Steps 
 1. If an **Action required** pop-up window appears, click on **Next**.
@@ -150,6 +152,6 @@ Learner Support Contacts:
 
 Now, click **Next >>** from the bottom right corner to embark on your Lab journey!
 
-![Launch Azure Portal](./media/gsk5.png)
+![Launch Azure Portal](./media/new/1nct.png)
 
 ## Happy Learning!!

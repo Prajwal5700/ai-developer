@@ -28,9 +28,9 @@ In this task, you will explore different flow types in Microsoft Foundry by depl
 
     ![](./media/new/w2.png)
 
-1. Click on **Deploy** to the model.
+1. Change the **Deployment type** to **Standard (1)** and click on **Deploy (2)** to deploy the model.
 
-    ![](./media/new/w3.png)
+    ![](./media/new/stnddep2.png)
 
 1. Navigate back to **Models+endpoints (1)**, select **gpt-4o (2)**, and click on **Open in playground (3)**.
 
@@ -62,19 +62,19 @@ In this task, you will explore different flow types in Microsoft Foundry by depl
 
     - Then click on **Next (9)**
 
-      ![](./media/new/v1.png)
+      ![](./media/new/nct9.png)
   
 1. Click **Browse for a file** to upload documents.
 
     ![](./media/new/w8.png)
   
-1. Navigate to `C:\LabFiles\ai-developer\Dotnet\src\BlazorAI\data\` and select **employee_handbook.pdf (1).** Click on **Open (2)**.
+1. Navigate to `C:\LabFiles\ai-developer\Dotnet\src\BlazorAI\data\` **(1)** and select **employee_handbook.pdf (2).** Click on **Open (3)**.
 
-    ![](./media/image_087.png)
+    ![](./media/new/ehand2.png)
 
 1. Click on **Upload files** to upload the files.
 
-    ![](./media/new/w10.png)
+    ![](./media/new/ufils.png)
 
 1. Once the upload is completed, click on **Next**.
 
@@ -90,7 +90,7 @@ In this task, you will explore different flow types in Microsoft Foundry by depl
 
 1. Review the configuration and then click on **Save and close**.
 
-    ![](./media/new/r2.png)
+    ![](./media/new/cinfrev.png)
 
 1. The data injection might take around **5** Minutes.
 
@@ -106,11 +106,11 @@ In this task, you will explore different flow types in Microsoft Foundry by depl
 
 1. On the **Overview (1)** page, copy the **URL (2)** and paste it into Notepad.
 
-    ![](./media/new/r6.png)
+    ![](./media/new/srchurl.png)
 
 1. From the left navigation pane, expand **Settings (1)**, click on **Keys (2)**, copy the **Primary admin key (3)** and paste it into Notepad.
 
-    ![](./media/new/r7.png)
+    ![](./media/new/pak.png)
 
   > **Congratulations** on completing the lab! Now, it's time to validate it. Here are the steps:
   > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next  task. 
@@ -607,4 +607,4 @@ In this exercise, you have completed the following:
 
 ### You have successfully completed this exercise. Kindly click **Next >>** to proceed further
 
-![Launch Azure Portal](./media/gsk5.png)
+![Launch Azure Portal](./media/new/6nct.png)

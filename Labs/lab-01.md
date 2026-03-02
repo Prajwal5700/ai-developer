@@ -38,11 +38,11 @@ In this task ,you will create an Azure AI Search resource.
 
         >**Note:** In case you do not see the Standard tier, it means that the region selected does not have the Standard tier available right now. Please select another region and deploy the resource.
 
-      ![](./media/new/aisearch-1401.png)
+      ![](./media/new/css.png)
 
 1. Click **Create** to deploy the search service.
 
-    ![](./media/new/aisearch-1501.png)
+    ![](./media/new/csscr.png)
 
 ## Task 2: Set up Microsoft Foundry
 
@@ -66,11 +66,11 @@ In this task, you will explore different flow types in Microsoft Foundry by crea
 
     - **Name:** Enter **ai-foundry-hub-<inject key="Deployment ID" enableCopy="false"></inject> (4)**
 
-      ![](./media/new/a3.png)
+      ![](./media/new/huubrc.png)
 
 1. Once the Validation passed, click on **Create**.
 
-    ![](./media/new/a4.png)
+    ![](./media/new/hubcr.png)
 
 1. Once the deployment is completed, click on **Go to resource**.
 
@@ -78,15 +78,15 @@ In this task, you will explore different flow types in Microsoft Foundry by crea
 
 1. From the **Overview** page of the **Azure AI hub**, click **Launch Azure AI Foundry** to open the Foundry workspace.
 
-    ![](./media/new/a6.png)
+    ![](./media/new/laif.png)
 
 1. From the left navigation pane, select **Model + endpoints (1)**, then click on **+ Deploy model (2)** drop-down and click **Deploy base model (3)**.
 
-    ![](./media/new/a8.png)
+    ![](./media/new/dbm.png)
 
 1. Search for **gpt-4o (1)**, select the **gpt-4o** model **(2)**, and click on **Confirm (3)**.
 
-    ![](./media/new/a9.png)
+    ![](./media/new/4ocon.png)
 
 1. On the **Deploy gpt-4o** blade, click on **Customize** and configure the required deployment settings as specified below:
 
@@ -98,7 +98,7 @@ In this task, you will explore different flow types in Microsoft Foundry by crea
 
     - Click on **Connect and deploy (4)**
 
-      ![](./media/new/ai1.png) 
+      ![](./media/new/cnd.png)
 
 1. From the top, click on **Microsoft Foundry**.
 
@@ -110,13 +110,13 @@ In this task, you will explore different flow types in Microsoft Foundry by crea
 
      >**Note**: **xxxxx** refers to randomly generated suffix.
 
-1. From left navigation pane, select **Model + endpoints (1)** from the **My assets** section, then select **gpt-4o (2)** model and the click on **Open in Playground (3)**.
+1. From left navigation pane, select **Model + endpoints (1)** from the **My assets** section, then select **gpt-4o (2)** model and the click on **Open in playground (3)**.
 
     ![](./media/new/b4.png)
 
 1. In the Setup section, replace the existing text with `Extract the United States Postal Service (USPS) formatted address from the following email` **(1)** then click on **Apply changes (2)**. Using this you can explore the capabilities of Azure OpenAI.
 
-    ![](./media/new/b5.png)
+    ![](./media/new/uspsapply.png)
 
 1. Click **Continue** to update the system message and start a new chat session.
 
@@ -157,10 +157,10 @@ In this task, you will explore different flow types in Microsoft Foundry by crea
 
 In this exercise, you have completed the following:
 
-- Set up Microsoft Foundry.
-
 - Created Azure AI Search.
+
+- Set up Microsoft Foundry.
 
 ### You have successfully completed this exercise. Kindly click **Next >>** to proceed further
 
-![Launch Azure Portal](./media/gsk5.png)
+![Launch Azure Portal](./media/new/2nct.png)

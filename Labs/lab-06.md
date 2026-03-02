@@ -26,21 +26,21 @@ In this task, you will explore different flow types in Microsoft Foundry by adju
 
 1. On the **Add basic information** blade, enter the Name **AggressiveContentFilter (1)** and click on **Next (2)**:
 
-     ![](./media/new/y2.png)
+     ![](./media/new/fltr.png)
 
 1. Leave the **Input filter** and **Output filter** blade to default and click on **Next**.
 
 1. On the **Apply filter to deployments (optional)** page, select **both deployments (1)** and click **Next (2)** to continue.
 
-    ![](./media/new/E6T1S5-1401.png)
+    ![](./media/new/fildeup.png)
 
 1. If you get a **Replacing existing content filter** warning, click on **Replace**.
 
-    ![](./media/new/y3.png)
+    ![](./media/new/repfil.png)
 
 1. Review the content filter configuration and click **Create filter** to complete the setup.
 
-    ![](./media/new/y4.png)
+    ![](./media/new/filcr.png)
 
 ## Task 2: Filter specific words or patterns
 
@@ -48,7 +48,7 @@ In this task, you will explore different flow types in Microsoft Foundry by filt
 
 1. From the top menu bar, select **Blocklists (Preview) (1)** tab and then click **+ Create blocklist (2)**.
 
-    ![](./media/new/y5.png)
+    ![](./media/new/blockll.png)
     
 1. On the **Create a blocklist** blade, specify the following configuration options and click on **Create blocklist (3)**.
 
@@ -101,4 +101,4 @@ In this exercise, you have completed the following:
 
 ### You have successfully completed this exercise. Kindly click **Next >>** to proceed further
 
-![Launch Azure Portal](./media/gsk5.png)
+![Launch Azure Portal](./media/new/7nct.png)
