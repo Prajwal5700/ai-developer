@@ -13,7 +13,7 @@ In this exercise, you will complete the following tasks:
 
 - Task 1: Set up environment variables
 
-- Task 2: Update the code files and run the app
+- Task 2: Update the code files and run the app.
  
 ## Task 1: Set up environment variables
  
