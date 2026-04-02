@@ -80,9 +80,9 @@ In this task, you will explore different flow types in Microsoft Foundry by depl
 
     ![](./media/new/w11.png)
 
-1. On the **Data Management** blade, select **Hybrid + semantic (1)** as the search type, keep the **default Chunk Size (1024) (2)**, and click **Next (3)** to proceed.
+1. On the **Data Management** blade, select **Hybrid (Vector+keyword) (1)** as the search type, keep the **default Chunk Size (1024) (2)**, and click **Next (3)** to proceed.
 
-    ![](./media/new/v2.png)
+    ![](./media/new/lab04.png) 
 
 1. On the **Data Connection** blade, select **API Key (1)** for authenticatio and then click on **Next (2)**.    
 
