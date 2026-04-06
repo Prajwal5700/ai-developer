@@ -13,7 +13,7 @@ In this exercise, you will complete the following tasks:
 
 - Task 1: Set up environment variables
 
-- Task 2: Update the code files and run the app
+- Task 2: Update the code files and run the app.
  
 ## Task 1: Set up environment variables
  
@@ -37,7 +37,9 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
     >**Note:** If a pop up window opens asking for Github Copilot chat wants to sign in, click on **Cancel**.
 
-1. Navigate back to **Microsoft Foundry** portal.
+1. Navigate back to **Microsoft Foundry** portal and click on **Overview (1)** and select **Go to Foundry Portal (2)**.
+
+    ![](./media/new/lab03.png)
 
 1. From the **Overview (1)** page, select **Azure OpenAI (2)** under Libraries, copy the **API Key (3)** and copy the **Azure OpenAI endpoint (4)** using the copy icons and paste it into **Notepad** as this is to be used in the upcoming exercises.
 
