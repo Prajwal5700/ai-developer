@@ -46,7 +46,7 @@ In this task, you will explore different flow types in Microsoft Foundry by adju
 
 In this task, you will explore different flow types in Microsoft Foundry by filtering specific words or patterns to refine search results and enhance data relevance.
 
-1. From the top menu bar, select **Blocklists (Preview) (1)** tab and then click **+ Create blocklist (2)**.
+1. From the top menu bar, select **Blocklists (1)** tab and then click **+ Create blocklist (2)**.
 
     ![](./media/new/blockll.png)
     
