@@ -23,6 +23,10 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
     ![](./media/new/d1.png)
 
+    >**Note:** If a pop up window opens asking for **Continue with GitHub**, click on **Skip**.
+
+    ![](./media/april-semantic-kernel-lab1-1.png)
+
 1. Click on **File (1)** and select **Open Folder... (2)**.
 
     ![](./media/image_023.png)
@@ -33,7 +37,7 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
 1. Click **Yes, I trust the authors** to trust the folder and enable all features.
 
-    ![](./media/new/d2.png)
+    ![](./media/april-semantic-kernel-lab1-2.png)
 
     >**Note:** If a pop up window opens asking for Github Copilot chat wants to sign in, click on **Cancel**.
 
