@@ -39,7 +39,7 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
     ![](./media/april-semantic-kernel-lab1-2.png)
 
-    >**Note:** If a pop up window opens asking for Github Copilot chat wants to sign in, click on **Cancel**.
+    >**Note:** If a pop up window opens asking for GitHub Copilot chat wants to sign in, click on **Cancel**.
 
 1. Navigate back to **Microsoft Foundry** portal and click on **Overview (1)** and select **Go to Foundry Portal (2)**.
 
@@ -49,7 +49,7 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
     ![](./media/new/keyned.png)
 
-1. Perform the further steps based on your preferred programming language:
+1. Perform further steps based on your preferred programming language:
 
 <details>
 <summary><strong>Python</strong></summary>
@@ -93,7 +93,7 @@ In this task, you will explore different flow types in Microsoft Foundry by sett
 
 In this task, you will explore different flow types in Microsoft Foundry by updating code files, running the AI-powered app in Python or C#, and testing responses to user prompts.
 
->**Note:** Perform the further steps based on your preferred programming language:
+>**Note:** Perform further steps based on your preferred programming language:
 
 <details>
 <summary><strong>Python</strong></summary>

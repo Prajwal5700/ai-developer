@@ -320,7 +320,7 @@ In this task, you will explore different flow types in Microsoft Foundry by crea
 
     ![](./media/new/e9.png)
 
-     >**Note**: Please refer the screenshots to locate the code in proper position that helps you to avoid indentation error.
+     >**Note**: Please refer to the screenshots to locate the code in proper position that helps you to avoid indentation error.
 
 1. Add the following code in the `// Challenge 03 - Add Time Plugin` section of the file.
     ```
